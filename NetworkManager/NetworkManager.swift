@@ -7,7 +7,6 @@
 
 import Foundation
 import Alamofire
-import MobileCoreServices
 
 class NetworkManager {
     static let baseUrl = "http://date.jsontest.com"
